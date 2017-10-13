@@ -1,0 +1,12 @@
+/home/cleverton/workspaces/csharp/Onion/Onion.Entites/bin/Debug/netstandard2.0/Onion.Entites.deps.json
+/home/cleverton/workspaces/csharp/Onion/Onion.Entites/bin/Debug/netstandard2.0/Onion.Entites.dll
+/home/cleverton/workspaces/csharp/Onion/Onion.Entites/bin/Debug/netstandard2.0/Onion.Entites.pdb
+/home/cleverton/workspaces/csharp/Onion/Onion.Entites/bin/Debug/netstandard2.0/Onion.Repositories.dll
+/home/cleverton/workspaces/csharp/Onion/Onion.Entites/bin/Debug/netstandard2.0/Onion.Services.dll
+/home/cleverton/workspaces/csharp/Onion/Onion.Entites/bin/Debug/netstandard2.0/Onion.Services.pdb
+/home/cleverton/workspaces/csharp/Onion/Onion.Entites/bin/Debug/netstandard2.0/Onion.Repositories.pdb
+/home/cleverton/workspaces/csharp/Onion/Onion.Entites/obj/Debug/netstandard2.0/Onion.Entites.csproj.CoreCompileInputs.cache
+/home/cleverton/workspaces/csharp/Onion/Onion.Entites/obj/Debug/netstandard2.0/Onion.Entites.AssemblyInfoInputs.cache
+/home/cleverton/workspaces/csharp/Onion/Onion.Entites/obj/Debug/netstandard2.0/Onion.Entites.AssemblyInfo.cs
+/home/cleverton/workspaces/csharp/Onion/Onion.Entites/obj/Debug/netstandard2.0/Onion.Entites.dll
+/home/cleverton/workspaces/csharp/Onion/Onion.Entites/obj/Debug/netstandard2.0/Onion.Entites.pdb

@@ -1,0 +1,10 @@
+/home/cleverton/workspaces/csharp/Onion/Onion.Repositories/bin/Debug/netstandard2.0/Onion.Repositories.deps.json
+/home/cleverton/workspaces/csharp/Onion/Onion.Repositories/bin/Debug/netstandard2.0/Onion.Repositories.dll
+/home/cleverton/workspaces/csharp/Onion/Onion.Repositories/bin/Debug/netstandard2.0/Onion.Repositories.pdb
+/home/cleverton/workspaces/csharp/Onion/Onion.Repositories/bin/Debug/netstandard2.0/Onion.Services.dll
+/home/cleverton/workspaces/csharp/Onion/Onion.Repositories/bin/Debug/netstandard2.0/Onion.Services.pdb
+/home/cleverton/workspaces/csharp/Onion/Onion.Repositories/obj/Debug/netstandard2.0/Onion.Repositories.csproj.CoreCompileInputs.cache
+/home/cleverton/workspaces/csharp/Onion/Onion.Repositories/obj/Debug/netstandard2.0/Onion.Repositories.AssemblyInfoInputs.cache
+/home/cleverton/workspaces/csharp/Onion/Onion.Repositories/obj/Debug/netstandard2.0/Onion.Repositories.AssemblyInfo.cs
+/home/cleverton/workspaces/csharp/Onion/Onion.Repositories/obj/Debug/netstandard2.0/Onion.Repositories.dll
+/home/cleverton/workspaces/csharp/Onion/Onion.Repositories/obj/Debug/netstandard2.0/Onion.Repositories.pdb

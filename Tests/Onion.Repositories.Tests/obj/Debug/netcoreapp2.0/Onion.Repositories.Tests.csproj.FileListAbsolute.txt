@@ -1,0 +1,17 @@
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/bin/Debug/netcoreapp2.0/Onion.Repositories.Tests.deps.json
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/bin/Debug/netcoreapp2.0/Onion.Repositories.Tests.runtimeconfig.json
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/bin/Debug/netcoreapp2.0/Onion.Repositories.Tests.runtimeconfig.dev.json
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/bin/Debug/netcoreapp2.0/Onion.Repositories.Tests.dll
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/bin/Debug/netcoreapp2.0/Onion.Repositories.Tests.pdb
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/bin/Debug/netcoreapp2.0/Onion.Repositories.dll
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/bin/Debug/netcoreapp2.0/Onion.Services.dll
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/bin/Debug/netcoreapp2.0/Onion.Repositories.pdb
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/bin/Debug/netcoreapp2.0/Onion.Services.pdb
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/obj/Debug/netcoreapp2.0/Onion.Repositories.Tests.csproj.CoreCompileInputs.cache
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/obj/Debug/netcoreapp2.0/Onion.Repositories.Tests.AssemblyInfoInputs.cache
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/obj/Debug/netcoreapp2.0/Onion.Repositories.Tests.AssemblyInfo.cs
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/obj/Debug/netcoreapp2.0/Onion.Repositories.Tests.dll
+/home/cleverton/workspaces/csharp/Onion/Tests/Onion.Repositories.Tests/obj/Debug/netcoreapp2.0/Onion.Repositories.Tests.pdb

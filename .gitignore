@@ -1,0 +1,10 @@
+.vscode/*
+Onion.Dtos/obj
+Onion.Entities/obj
+Onion.Repositories/obj
+Onion.Services/obj
+Onion.UseCases/obj
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json

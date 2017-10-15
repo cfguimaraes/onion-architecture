@@ -3805,18 +3805,6 @@
           "Onion.DTOs.dll": {}
         }
       },
-      "Onion.Entites/1.0.0": {
-        "dependencies": {
-          "Onion.Repositories": "1.0.0",
-          "Onion.Services": "1.0.0"
-        },
-        "runtime": {
-          "Onion.Entites.dll": {}
-        },
-        "compile": {
-          "Onion.Entites.dll": {}
-        }
-      },
       "Onion.Repositories/1.0.0": {
         "dependencies": {
           "Onion.Services": "1.0.0"
@@ -3839,7 +3827,6 @@
       "Onion.UseCases/1.0.0": {
         "dependencies": {
           "Onion.DTOs": "1.0.0",
-          "Onion.Entites": "1.0.0",
           "Onion.Repositories": "1.0.0",
           "Onion.Services": "1.0.0"
         },
@@ -6037,11 +6024,6 @@
       "hashPath": "windowsazure.storage.8.1.4.nupkg.sha512"
     },
     "Onion.DTOs/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Onion.Entites/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -4757,20 +4757,6 @@
           "bin/placeholder/Onion.DTOs.dll": {}
         }
       },
-      "Onion.Entites/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Onion.Repositories": "1.0.0",
-          "Onion.Services": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Onion.Entites.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Onion.Entites.dll": {}
-        }
-      },
       "Onion.Repositories/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -4799,7 +4785,6 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Onion.DTOs": "1.0.0",
-          "Onion.Entites": "1.0.0",
           "Onion.Repositories": "1.0.0",
           "Onion.Services": "1.0.0"
         },
@@ -12592,11 +12577,6 @@
       "type": "project",
       "path": "../../Onion.Dtos/Onion.DTOs.csproj",
       "msbuildProject": "../../Onion.Dtos/Onion.DTOs.csproj"
-    },
-    "Onion.Entites/1.0.0": {
-      "type": "project",
-      "path": "../../Onion.Entites/Onion.Entites.csproj",
-      "msbuildProject": "../../Onion.Entites/Onion.Entites.csproj"
     },
     "Onion.Repositories/1.0.0": {
       "type": "project",

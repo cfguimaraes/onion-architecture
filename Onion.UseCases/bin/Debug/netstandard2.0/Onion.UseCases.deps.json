@@ -11,7 +11,6 @@
         "dependencies": {
           "NETStandard.Library": "2.0.0",
           "Onion.DTOs": "1.0.0",
-          "Onion.Entites": "1.0.0",
           "Onion.Repositories": "1.0.0",
           "Onion.Services": "1.0.0"
         },
@@ -28,15 +27,6 @@
       "Onion.DTOs/1.0.0": {
         "runtime": {
           "Onion.DTOs.dll": {}
-        }
-      },
-      "Onion.Entites/1.0.0": {
-        "dependencies": {
-          "Onion.Repositories": "1.0.0",
-          "Onion.Services": "1.0.0"
-        },
-        "runtime": {
-          "Onion.Entites.dll": {}
         }
       },
       "Onion.Repositories/1.0.0": {
@@ -75,11 +65,6 @@
       "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
     },
     "Onion.DTOs/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Onion.Entites/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

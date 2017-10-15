@@ -16,3 +16,5 @@
 /home/cleverton/workspaces/csharp/Onion/Clients/Mvc/bin/Debug/netcoreapp2.0/Onion.DTOs.pdb
 /home/cleverton/workspaces/csharp/Onion/Clients/Mvc/bin/Debug/netcoreapp2.0/Onion.Repositories.pdb
 /home/cleverton/workspaces/csharp/Onion/Clients/Mvc/bin/Debug/netcoreapp2.0/Onion.Services.pdb
+/home/cleverton/workspaces/csharp/Onion/Clients/Mvc/bin/Debug/netcoreapp2.0/Onion.Entities.dll
+/home/cleverton/workspaces/csharp/Onion/Clients/Mvc/bin/Debug/netcoreapp2.0/Onion.Entities.pdb

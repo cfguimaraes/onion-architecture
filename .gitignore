@@ -13,3 +13,5 @@ Onion.Services/bin/*
 Onion.Services/obj/*
 Onion.UseCases/bin/*
 Onion.UseCases/obj/*
+Clients/Mvc/bin/*
+Clients/Mvc/obj/*

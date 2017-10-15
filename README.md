@@ -12,4 +12,4 @@ Existem muitos projetos que não consideram acesso a dados como parte integrante
 esse modelo pode ser utilizado sem acesso a dados simplesmente removendo a camada responsável pelo acesso,
 o que é válido para inclusão e alteração de outras camadas conforme necessidade.
 
-!(Onion modelo conceitual)[/Onion-Architecture.png]
+[Onion modelo conceitual](/Onion-Architecture.png)

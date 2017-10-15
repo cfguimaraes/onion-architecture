@@ -1,8 +1,0 @@
-/home/cleverton/workspaces/csharp/Onion/Onion.DTOs/bin/Debug/netstandard2.0/Onion.DTOs.deps.json
-/home/cleverton/workspaces/csharp/Onion/Onion.DTOs/bin/Debug/netstandard2.0/Onion.DTOs.dll
-/home/cleverton/workspaces/csharp/Onion/Onion.DTOs/bin/Debug/netstandard2.0/Onion.DTOs.pdb
-/home/cleverton/workspaces/csharp/Onion/Onion.DTOs/obj/Debug/netstandard2.0/Onion.DTOs.csproj.CoreCompileInputs.cache
-/home/cleverton/workspaces/csharp/Onion/Onion.DTOs/obj/Debug/netstandard2.0/Onion.DTOs.AssemblyInfoInputs.cache
-/home/cleverton/workspaces/csharp/Onion/Onion.DTOs/obj/Debug/netstandard2.0/Onion.DTOs.AssemblyInfo.cs
-/home/cleverton/workspaces/csharp/Onion/Onion.DTOs/obj/Debug/netstandard2.0/Onion.DTOs.dll
-/home/cleverton/workspaces/csharp/Onion/Onion.DTOs/obj/Debug/netstandard2.0/Onion.DTOs.pdb
